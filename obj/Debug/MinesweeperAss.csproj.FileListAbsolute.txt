@@ -1,0 +1,7 @@
+E:\3rd Year\Assembly Language\project\MinesweeperAss\bin\Debug\MinesweeperAss.exe.config
+E:\3rd Year\Assembly Language\project\MinesweeperAss\bin\Debug\MinesweeperAss.exe
+E:\3rd Year\Assembly Language\project\MinesweeperAss\bin\Debug\MinesweeperAss.pdb
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Debug\MinesweeperAss.Properties.Resources.resources
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Debug\MinesweeperAss.csproj.GenerateResource.Cache
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Debug\MinesweeperAss.exe
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Debug\MinesweeperAss.pdb

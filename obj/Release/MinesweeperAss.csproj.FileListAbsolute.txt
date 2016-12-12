@@ -1,0 +1,16 @@
+E:\3rd Year\Assembly Language\project\MinesweeperAss\bin\Release\MinesweeperAss.exe.config
+E:\3rd Year\Assembly Language\project\MinesweeperAss\bin\Release\MinesweeperAss.exe
+E:\3rd Year\Assembly Language\project\MinesweeperAss\bin\Release\MinesweeperAss.pdb
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Release\MinesweeperAss.Properties.Resources.resources
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Release\MinesweeperAss.csproj.GenerateResource.Cache
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Release\MinesweeperAss.exe
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Release\MinesweeperAss.pdb
+E:\3rd Year\Assembly Language\project\MinesweeperAss\obj\Release\MinesweeperAss.csprojResolveAssemblyReference.cache
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\bin\Release\MinesweeperAss.exe.config
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.exe
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.pdb
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\bin\Release\MinesweeperAss.exe
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\bin\Release\MinesweeperAss.pdb
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.csprojResolveAssemblyReference.cache
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.Properties.Resources.resources
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.csproj.GenerateResource.Cache

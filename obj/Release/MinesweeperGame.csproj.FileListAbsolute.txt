@@ -1,0 +1,9 @@
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\bin\Release\MinesweeperAss.exe.config
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\bin\Release\MinesweeperAss.exe
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\bin\Release\MinesweeperAss.pdb
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperGame.csprojResolveAssemblyReference.cache
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\Minesweeper.Properties.Resources.resources
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperGame.csproj.GenerateResource.Cache
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.exe
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\MinesweeperAss.pdb
+C:\Users\Mannas\Desktop\MinesweeperAss\MinesweeperAss\obj\Release\Minesweeper.MinesweeperForm.resources
