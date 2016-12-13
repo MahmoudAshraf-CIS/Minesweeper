@@ -1,0 +1,6 @@
+C:\Users\Mannas\Desktop\MinesweeperGame\bin\Debug\MinesweeperAss.exe.config
+C:\Users\Mannas\Desktop\MinesweeperGame\obj\Debug\MinesweeperAss.exe
+C:\Users\Mannas\Desktop\MinesweeperGame\obj\Debug\MinesweeperAss.pdb
+E:\Current Projects\MinesweeperGame\GUI\bin\Debug\MinesweeperAss.exe.config
+E:\Current Projects\MinesweeperGame\GUI\obj\Debug\MinesweeperAss.exe
+E:\Current Projects\MinesweeperGame\GUI\obj\Debug\MinesweeperAss.pdb
